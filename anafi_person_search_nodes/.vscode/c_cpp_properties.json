@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/humble/include/**",
+                "~/ros2_ws/install/**/include",
+                "/usr/include/**",
+                "/usr/include/opencv4",
+                "/opt/ros/humble/include/cv_bridge",
+                "/usr/local/include/opencv4",
+                "/opt/ros/humble/include/std_msgs",
+                "/home/carlos/ros2_ws/install/anafi_person_search_interfaces/include/anafi_person_search_interfaces",
+                "/home/carlos/ros2_ws/install/anafi_ros_interfaces/include/anafi_ros_interfaces"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                    "/opt/ros/humble/include",
+                    "~/ros2_ws/install/**/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,6 @@
+uint16 nx
+uint16 ny
+uint16 cx
+uint16 cy
+---
+string reception_state

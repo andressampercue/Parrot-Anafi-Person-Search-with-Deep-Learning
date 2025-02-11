@@ -1,0 +1,7 @@
+Meshes:
+  - Name: 'Nathan'
+    FbxPath: "/home/carlos/ros2_ws/src/anafi_person_search/anafi_person_search_nodes/fbx_models/carla.fbx"
+    Location: "-1600 3000 26"
+    #Rotation: "-90 180 -300"
+    Rotation: "-90 180 -230"
+    Scale: "1 1 1"
